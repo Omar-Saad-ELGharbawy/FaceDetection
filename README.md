@@ -80,6 +80,8 @@ README.md
 #### Offline Face Detection and Recognition
 ![offline detection   recognition](https://github.com/omaranwar21/CV_It-is-me/assets/94166833/5db74e4e-b3d3-41cb-bcc6-518965d5539e)
 #### Live Face Detection and Recognition
+![Face Recognition](https://github.com/Omar-Saad-ELGharbawy/Real-Time-PCA-Face-Recognition/assets/84602951/062fb0ea-d6e4-4c5e-b667-bc20c32b8fcc)
+
 ![live recognition](https://github.com/omaranwar21/CV_It-is-me/assets/94166833/a0d888fe-ca68-4736-a850-6f3b9a3c3ed9)
 
 ***
