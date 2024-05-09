@@ -6,8 +6,6 @@
 - [Project Structure](#project-structure)
 - [Quick Preview](#quick-preview)
 - [Requirements to run](#Requirements-to-run)
-- [Run the project](#Run-the-project)
-- [Try a demo](#Try-a-demo)
 - [Team]()
 ***
 
@@ -88,16 +86,6 @@ README.md
 ### Requirements to run 
 
 [ Qt Setup and openCV ](https://github.com/Dinahussam/Impro-App/files/10972282/Qt.Setup.and.openCV.pdf)
-
-***
-
-### Run the project
-
-***
-
-### Try a demo
-
-[ Download Here !]
 
 ***
 
